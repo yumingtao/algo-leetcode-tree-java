@@ -1,5 +1,3 @@
-package com.ymt.leetcode.tree.island_perimeter;
-
 /**
  * 参考题解
  */
