@@ -1,3 +1,5 @@
+import com.ymt.leetcode.tree.TreeNode;
+
 public class Solution1 {
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root == null){
