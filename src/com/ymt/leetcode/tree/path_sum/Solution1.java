@@ -1,3 +1,5 @@
+package com.ymt.leetcode.tree.path_sum;
+
 import com.ymt.leetcode.tree.TreeNode;
 
 public class Solution1 {
